@@ -1,0 +1,11 @@
+{
+    "name": "ringo-filestore",
+    "version": "0.1.0",
+    "description": "Simple file based storage for Ringo",
+    "keywords": ["database"],
+    "author": "Hannes Wallnoefer <hannesw@gmail.com>",
+    "dependencies": {
+        "ringo-storable": "0.1.0"
+    },
+    "main": "./lib/filestore.js"
+}
