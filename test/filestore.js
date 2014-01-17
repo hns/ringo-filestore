@@ -1,4 +1,5 @@
 var assert = require("assert");
+var system = require("system");
 include('./testconsts');
 var fs = require('fs');
 var {Store, Storable} = require('ringo-filestore');
